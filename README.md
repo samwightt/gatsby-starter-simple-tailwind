@@ -1,14 +1,10 @@
-<!-- AUTO-GENERATED-CONTENT:START (STARTER) -->
-<p align="center">
-  <a href="https://www.gatsbyjs.org">
-    <img alt="Gatsby" src="https://www.gatsbyjs.org/monogram.svg" width="60" />
-  </a>
-</p>
 <h1 align="center">
-  Gatsby's default starter
+  Simple Tailwind - A Gatsby Starter
 </h1>
 
-Kick off your project with this default boilerplate. This starter ships with the main Gatsby configuration files you might need to get up and running blazing fast with the blazing fast app generator for React.
+Simple Tailwind is a lightweight starter for Gatsby projects. It comes with PurgeCSS and Typescript set up by default, and has minimal external dependencies. Simple Tailwind is a blank canvas for you to create whatever you want with it.
+
+While other Tailwind starters do exist, this one is built to be as simple as possible. I got tired of deleting tons of boilerplate when I started a new, one-off project, so I created this as a simple way to _just start writing_.
 
 _Have another more specific idea? You may want to check out our vibrant collection of [official and community-created starters](https://www.gatsbyjs.org/docs/gatsby-starters/)._
 
